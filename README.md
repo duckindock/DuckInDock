@@ -29,4 +29,4 @@ All code here is **open-source**, and you're welcome to contribute! If you use a
 🚢 **Let's build and deploy together!** 🦆⚓
 
 ## License
-This work is published under [MIT][mit] License.
+This work is published under [MIT](mit) License.
