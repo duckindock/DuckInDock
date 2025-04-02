@@ -1,10 +1,10 @@
-# 🦆 Duck in Dock
+# 🐥 Duck in Dock
 
 🚀 **Open-source guides & tools for web technologies, Docker, and GitHub workflows.**
 
 ---
 
-## 🌐 Welcome to Duck in Dock! 🦆⚓🐳
+## 🌐 Welcome to Duck in Dock! 🐥⚓🐳
 This repository hosts open-source projects, guides, and documentation focused on web technologies, Docker, and GitHub workflows.
 
 ✅ **What You'll Find Here:**
@@ -26,7 +26,7 @@ All code here is **open-source**, and you're welcome to contribute! If you use a
 🎥 YouTube: [YouTubeChannel](https://www.youtube.com/@DuckInDock)  
 🐳 Docker Hub: [DockerHubProfile](https://hub.docker.com/u/duckindock)  
 
-🚢 **Let's build and deploy together!** 🦆⚓
+🚢 **Let's build and deploy together!** 🐥⚓
 
 ## License
 This work is published under [MIT](LICENSE) License.

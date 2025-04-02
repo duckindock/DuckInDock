@@ -14,9 +14,9 @@ timezone: UTC
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Duck in Dock 🦆🐳 # the main title
+title: Duck in Dock # the main title 🦆🐳
 
-tagline: Open-source guides & tools for web technologies 🚀  # it will display as the subtitle
+tagline: Open-source guides & tools for web technologies  # it will display as the subtitle 🚀
 
 description: >- # used by seo meta and the atom feed
   A collection of open-source guides, tutorials, and tools for web development, Docker, and GitHub workflows.
@@ -99,11 +99,11 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/images/avatar.png"
+avatar: "/assets/img/avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "/assets/images/social-preview.png" # string, local or CORS resources
+social_preview_image: "/assets/img/social-preview.png" # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
