@@ -11,7 +11,7 @@ pin: true
 
 ## Welcome to *Duck In Dock*! 🐥
 
-![Duck In Dock Banner](/assets/img/banner.png)
+![Duck In Dock Banner](/assets/img/brand/banner.jpeg)
 
 Hey there! 🚀 Welcome to **Duck In Dock**, a place where we explore the world of web technologies, open-source development, and containerized environments. If you’re here, that means you want to learn, contribute, and grow as a developer. And trust me, you're in the right place! 😃
 
